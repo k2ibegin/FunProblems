@@ -1,0 +1,6 @@
+F:\devs\CodingChallenges\ProgrammingChallenge\TapeEquilibirium\bin\Debug\TapeEquilibirium.dll
+F:\devs\CodingChallenges\ProgrammingChallenge\TapeEquilibirium\bin\Debug\TapeEquilibirium.pdb
+F:\devs\CodingChallenges\ProgrammingChallenge\TapeEquilibirium\obj\Debug\TapeEquilibirium.csprojResolveAssemblyReference.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\TapeEquilibirium\obj\Debug\TapeEquilibirium.csproj.CoreCompileInputs.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\TapeEquilibirium\obj\Debug\TapeEquilibirium.dll
+F:\devs\CodingChallenges\ProgrammingChallenge\TapeEquilibirium\obj\Debug\TapeEquilibirium.pdb

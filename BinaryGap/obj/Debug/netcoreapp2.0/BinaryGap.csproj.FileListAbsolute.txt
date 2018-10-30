@@ -1,0 +1,9 @@
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGap\bin\Debug\netcoreapp2.0\BinaryGap.deps.json
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGap\bin\Debug\netcoreapp2.0\BinaryGap.dll
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGap\obj\Debug\netcoreapp2.0\BinaryGap.csprojResolveAssemblyReference.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGap\obj\Debug\netcoreapp2.0\BinaryGap.csproj.CoreCompileInputs.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGap\obj\Debug\netcoreapp2.0\BinaryGap.AssemblyInfoInputs.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGap\obj\Debug\netcoreapp2.0\BinaryGap.AssemblyInfo.cs
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGap\bin\Debug\netcoreapp2.0\BinaryGap.pdb
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGap\obj\Debug\netcoreapp2.0\BinaryGap.dll
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGap\obj\Debug\netcoreapp2.0\BinaryGap.pdb

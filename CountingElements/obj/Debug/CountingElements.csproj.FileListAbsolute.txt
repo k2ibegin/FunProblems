@@ -1,0 +1,6 @@
+F:\devs\CodingChallenges\ProgrammingChallenge\CountingElements\bin\Debug\CountingElements.dll
+F:\devs\CodingChallenges\ProgrammingChallenge\CountingElements\bin\Debug\CountingElements.pdb
+F:\devs\CodingChallenges\ProgrammingChallenge\CountingElements\obj\Debug\CountingElements.csprojResolveAssemblyReference.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\CountingElements\obj\Debug\CountingElements.csproj.CoreCompileInputs.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\CountingElements\obj\Debug\CountingElements.dll
+F:\devs\CodingChallenges\ProgrammingChallenge\CountingElements\obj\Debug\CountingElements.pdb

@@ -1,0 +1,11 @@
+F:\devs\CodingChallenges\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\netcoreapp2.0\ProgrammingChallenge.deps.json
+F:\devs\CodingChallenges\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\netcoreapp2.0\ProgrammingChallenge.runtimeconfig.json
+F:\devs\CodingChallenges\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\netcoreapp2.0\ProgrammingChallenge.runtimeconfig.dev.json
+F:\devs\CodingChallenges\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\netcoreapp2.0\ProgrammingChallenge.dll
+F:\devs\CodingChallenges\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\netcoreapp2.0\ProgrammingChallenge.csprojResolveAssemblyReference.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\netcoreapp2.0\ProgrammingChallenge.csproj.CoreCompileInputs.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\netcoreapp2.0\ProgrammingChallenge.AssemblyInfoInputs.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\netcoreapp2.0\ProgrammingChallenge.AssemblyInfo.cs
+F:\devs\CodingChallenges\ProgrammingChallenge\ProgrammingChallenge\bin\Debug\netcoreapp2.0\ProgrammingChallenge.pdb
+F:\devs\CodingChallenges\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\netcoreapp2.0\ProgrammingChallenge.dll
+F:\devs\CodingChallenges\ProgrammingChallenge\ProgrammingChallenge\obj\Debug\netcoreapp2.0\ProgrammingChallenge.pdb

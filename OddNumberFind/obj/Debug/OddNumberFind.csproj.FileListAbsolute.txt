@@ -1,0 +1,6 @@
+F:\devs\CodingChallenges\ProgrammingChallenge\OddNumberFind\bin\Debug\OddNumberFind.dll
+F:\devs\CodingChallenges\ProgrammingChallenge\OddNumberFind\bin\Debug\OddNumberFind.pdb
+F:\devs\CodingChallenges\ProgrammingChallenge\OddNumberFind\obj\Debug\OddNumberFind.csproj.CoreCompileInputs.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\OddNumberFind\obj\Debug\OddNumberFind.dll
+F:\devs\CodingChallenges\ProgrammingChallenge\OddNumberFind\obj\Debug\OddNumberFind.pdb
+F:\devs\CodingChallenges\ProgrammingChallenge\OddNumberFind\obj\Debug\OddNumberFind.csprojResolveAssemblyReference.cache

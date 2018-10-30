@@ -1,0 +1,6 @@
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGapFirst\bin\Debug\BinaryGapFirst.dll
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGapFirst\bin\Debug\BinaryGapFirst.pdb
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGapFirst\obj\Debug\BinaryGapFirst.csprojResolveAssemblyReference.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGapFirst\obj\Debug\BinaryGapFirst.csproj.CoreCompileInputs.cache
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGapFirst\obj\Debug\BinaryGapFirst.dll
+F:\devs\CodingChallenges\ProgrammingChallenge\BinaryGapFirst\obj\Debug\BinaryGapFirst.pdb
